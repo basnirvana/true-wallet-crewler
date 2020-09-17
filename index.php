@@ -4,8 +4,8 @@
 	$wallet = new TrueWallet();
 
 	// username และ Password ที่ใช้ล็อกอินเข้าไปยัง True Wallet
-	$username = "";
-	$password = "";
+	$username = "0654425350";
+	$password = "30223022";
 
 	/**
 	ฟังก์ชั้นนี้ จะดึงข้อมูลทางการเงินทั้งหมดออกมา ไม่เกิน 50 รายการ
